@@ -1,4 +1,4 @@
-### Rebalancing Citi BIke
+# Rebalancing Citi BIke
 ## Summary:
 This project is using Citi Bike dataset to predict the number of users for a bike station. The problem with bike stations is that users have to rebalance a bike station in order to meet demands. With my model, I can predict the number of users for a bike station given the bike station, date, and time. This will essentially help the Citi Bike rebalancing team to reduce the number of bikes being swapped between stations.
 
