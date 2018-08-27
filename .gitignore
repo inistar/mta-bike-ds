@@ -3,3 +3,4 @@ secret_key.py
 /storage/*
 __pycache__/*
 catboost_info/*
+.ipynb_checkpoints/*
